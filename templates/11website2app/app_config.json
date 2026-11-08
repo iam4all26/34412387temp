@@ -1,8 +1,21 @@
 {
-  "url": "https://example.com",
+  "url": "https://token.kainuwa.africa",
   "javascript": true,
-  "show_loading_bar": true,
-  "allow_zoom": false,
   "background_color": "#FFFFFF",
-  "open_other_sites_in_app": true
+
+  "open_links_externally": "auto",
+  "new_window_mode": "in_app",
+  "enable_downloads": true,
+  "enable_print": false,
+  "enable_share": false,
+  "adapt_width": false,
+  "allow_zoom": false,
+  "screen_orientation": "auto",
+  "pull_to_refresh": true,
+  "show_loader": true,
+  "update_always": false,
+  "allow_offline": true,
+  "offline_message": "",
+  "user_agent": "",
+  "custom_headers": {}
 }
